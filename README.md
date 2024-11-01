@@ -37,7 +37,7 @@ https://github.com/miyako/4d-plugin-rotate-image
 
 the GD library supports rotation
 
-https://github.com/miyako/4d-plugin-gd-v3?tab=readme-ov-file
+https://github.com/miyako/4d-plugin-gd-v3
 
 ImageMagick supports rotation
 
