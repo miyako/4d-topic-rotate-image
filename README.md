@@ -1,7 +1,13 @@
 # 4d-topic-rotate-image
 want to rotate images🌀
 
-# OpenCV plugin
+### SVG
+
+the SVG component can rotate any image by any angle.
+
+see [code](https://github.com/miyako/4d-topic-rotate-image/blob/main/rotate/Project/Sources/Methods/rotate.4dm).
+
+### OpenCV plugin
 
 a picture taken with a smartphone could have an EXIF *orientation* tag that rotates the image by 90°.
 
