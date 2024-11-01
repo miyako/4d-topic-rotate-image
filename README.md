@@ -32,3 +32,13 @@ SVG can be used to "correct" such images, but affine transforms are computationa
 since we are only interested in 90° or 270° rotations, it may be better to use pixel displacement for performace.
 
 https://github.com/miyako/4d-plugin-rotate-image
+
+### Other plugins
+
+the GD library supports rotation
+
+https://github.com/miyako/4d-plugin-gd-v3?tab=readme-ov-file
+
+ImageMagick supports rotation
+
+https://github.com/miyako/4d-plugin-imagemagick-v2
